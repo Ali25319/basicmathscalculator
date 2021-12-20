@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ali25319/basicmathscalculator.git/static/css/main.9352d94f.css",
+    "main.js": "/Ali25319/basicmathscalculator.git/static/js/main.ad49bbef.js",
+    "static/js/787.a56d0904.chunk.js": "/Ali25319/basicmathscalculator.git/static/js/787.a56d0904.chunk.js",
+    "index.html": "/Ali25319/basicmathscalculator.git/index.html",
+    "main.9352d94f.css.map": "/Ali25319/basicmathscalculator.git/static/css/main.9352d94f.css.map",
+    "main.ad49bbef.js.map": "/Ali25319/basicmathscalculator.git/static/js/main.ad49bbef.js.map",
+    "787.a56d0904.chunk.js.map": "/Ali25319/basicmathscalculator.git/static/js/787.a56d0904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9352d94f.css",
+    "static/js/main.ad49bbef.js"
+  ]
+}
